@@ -7,4 +7,11 @@ public class App {
         System.out.println("New Changed Line");
         System.out.println("Add 1 more Changed Line");
     }
+    
+    class Student	{
+    	String name;
+    	public Student(String name)	{
+    		this.name = name;
+    	}
+    }
 }
